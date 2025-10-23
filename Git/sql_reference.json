@@ -1,0 +1,6 @@
+{
+  "database": {
+    "create": "CREATE DATABASE database_name;",
+    "drop": "DROP DATABASE database_name;",
+    "rename": "ALTER DATABASE database_name RENAME TO new_name;"
+}
